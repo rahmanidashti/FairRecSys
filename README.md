@@ -39,3 +39,5 @@ If you use our source code, dataset, and experiments for your research or develo
 
 ## Todo
 - [ ] Adding the datasets charactristics in the daataset readme
+- [ ] Adding description on how to run the model
+- [ ] Adding raw results files
