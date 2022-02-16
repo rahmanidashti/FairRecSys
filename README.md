@@ -2,15 +2,15 @@
 
 <img src="./images/banner.jpeg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
 
-# Model
+## Model
 
-# Datasets
+## Datasets
 
-# Prerequirements
+## Prerequirements
 
-# How to Run?
+## How to Run?
 
-# Team
+## Team
 <a href=#>Hossein A. Rahmani</a>, Wen Intelligence Group, UCL
 
 <a href=#>Mohammadmehdi Naghiaei</a>, University of Southern California
@@ -19,7 +19,7 @@
 
 <a href=#>Mohammad Aliannejadi</a>, IRLab, University of Amsterdam
 
-# Citation
+## Citation
 If you use our source code, dataset, and experiments for your research or development, please cite the following paper:
 
 ```
@@ -31,4 +31,4 @@ If you use our source code, dataset, and experiments for your research or develo
 }
 ```
 
-# Acknowledgements
+## Acknowledgements
