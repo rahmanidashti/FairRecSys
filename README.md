@@ -12,8 +12,11 @@
 
 # Team
 Hossein A. Rahmani, Wen Intelligence Group, UCL
+
 Mohammadmehdi Naghiaei, University of Southern California
+
 Mahdi Dehghan, SBU, Shahid Beheshti University
+
 Mohammad Aliannejadi, IRLab, University of Amsterdam
 
 # Citation
