@@ -4,6 +4,8 @@
 
 ## Model
 
+<a href="https://colab.research.google.com/github/rahmanidashti/FairRecSys/blob/main/UFR.ipynb">Run model</a>
+
 ## Datasets
 
 ## Prerequirements
