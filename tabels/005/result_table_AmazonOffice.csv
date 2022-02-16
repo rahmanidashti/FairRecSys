@@ -1,4 +1,4 @@
-Model,Type,All,Act,Inact,UGF,Improv,Nov,Cov,Short,Long,GAPAct,GAPInact 
+Model,Type,All,Adv,Disadv,UGF,Δ%,Nov,Cov,Short,Long,ΔGapA,ΔGapD 
 MostPop,Org.,0.0111,0.0446,0.0091,0.0355,0.0,4.7364,0.63,24480.0,0.0,130.657,186.918 
 MostPop,Fair,0.0116,0.0332,0.0103,0.0229,35.49,4.7251,1.32,24480.0,0.0,132.098,190.37 
 BPR,Org.,0.0126,0.0476,0.0106,0.037,0.0,4.7295,0.75,24480.0,0.0,131.679,188.243 
