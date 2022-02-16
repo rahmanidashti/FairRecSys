@@ -11,6 +11,10 @@
 # How to Run?
 
 # Team
+Hossein A. Rahmani, Wen Intelligence Group, UCL
+Mohammadmehdi Naghiaei, University of Southern California
+Mahdi Dehghan, SBU, Shahid Beheshti University
+Mohammad Aliannejadi, IRLab, University of Amsterdam
 
 # Citation
 If you use our source code, dataset, and experiments for your research or development, please cite the following paper:
