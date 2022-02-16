@@ -13,8 +13,7 @@
 ## How to Run?
 
 ## Results
-
-Due to space limitations we add the results on the Epinions and Last.fm datasets into the paper. However, we add the final results of all datasets into the <a href="./tables">`tables`</a> folder accroding to each user grouping method. Table
+Due to space limitations we add the results on the Epinions and Last.fm datasets into the paper. However, we add the final results of all datasets into the <a href="./tables">`tables`</a> folder accroding to each user grouping method (i.e., interactions and popular consumption). There, we have two folders, `5` and `20` for user grouping based on interactions and popular consumption, respectively.
 
 ## Team
 <a href=#>Hossein A. Rahmani</a>, Wen Intelligence Group, UCL
