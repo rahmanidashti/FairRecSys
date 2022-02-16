@@ -16,7 +16,7 @@
 If you use our source code, dataset, and experiments for your research or development, please cite the following paper:
 
 ```
-@inproceedings{RecsysLab2021CAPRI,
+@inproceedings{rahmani2022fairrecsys,
   title={TBD},
   author={TBA},
   booktitle={TBA},
