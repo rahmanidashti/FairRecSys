@@ -24,10 +24,10 @@ If you use our source code, dataset, and experiments for your research or develo
 
 ```
 @inproceedings{rahmani2022fairrecsys,
-  title={TBD},
-  author={TBA},
-  booktitle={TBA},
-  year={2021}
+  title={Experiments on Generalizability of User-Oriented Fairness in Recommender Systems},
+  author={Hossein A. Rahmani, Mohammadmehdi Naghiaei, Mahdi Dehghan, Mohammad Aliannejadi},
+  booktitle={SIGIR},
+  year={2022}
 }
 ```
 
