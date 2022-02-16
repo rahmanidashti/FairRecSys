@@ -38,4 +38,4 @@ If you use our source code, dataset, and experiments for your research or develo
 ## Acknowledgements
 
 ## Todo
-[] Adding the datasets charactristics in the daataset readme
+- [ ] Adding the datasets charactristics in the daataset readme
