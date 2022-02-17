@@ -88,6 +88,6 @@ If you use our source code, dataset, and experiments for your research or develo
 ## Acknowledgements
 
 ## Todo
-- [ ] Adding the datasets charactristics in the daataset readme
-- [ ] Adding description on how to run the model
+- [X] Adding the datasets charactristics in the daataset readme
+- [X] Adding description on how to run the model
 - [ ] Adding raw results files
