@@ -29,7 +29,7 @@ In order to make easy to use the reproducibility of URF mode, we create a notebo
 
     where `ds_names` is the name of the dataset, `is_implicit` indicate the feedback type, `ds_users` refer to the user grouing methods (`005 -> interactions` and `2 -> popular consumption`), and `ds_items` indicate the item grouping method which is `020`, indicating short-head and long-tail items grpouing accorsing to top 20% popular items. You can check all the datasets, their attributes, users and items grouping in <a href="./datasets">`dataset`</a> folder.
 
-- Finally, when you run the model the reuslts for each recommendation algorithms will be stored in a CSV file including the follwing columns:
+- Finally, when you run the model the reuslts for each recommendation algorithms will be stored in a CSV file called `results_DATASET_MODEL.csv` including the follwing columns:
 
     ```
     Dataset: Name of the dataset
