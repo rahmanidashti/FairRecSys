@@ -27,7 +27,39 @@ In order to make easy to use the reproducibility of URF mode, we create a notebo
     ds_items = ['020']
     ```
 
-    where `ds_names` is the name of the dataset, `is_implicit` indicate the feedback type, `ds_users` refer to the user grouing methods (005 -> interactions and 2 -> popular consumption), and `ds_items` indicate the item grouping method which is `020`, indicating short-head and long-tail items grpouing accorsing to top 20% popular items. You can check all the datasets, their attributes, users and items grouping in <a href="./datasets">`dataset`</a> folder.
+    where `ds_names` is the name of the dataset, `is_implicit` indicate the feedback type, `ds_users` refer to the user grouing methods (`005 -> interactions` and `2 -> popular consumption`), and `ds_items` indicate the item grouping method which is `020`, indicating short-head and long-tail items grpouing accorsing to top 20% popular items. You can check all the datasets, their attributes, users and items grouping in <a href="./datasets">`dataset`</a> folder.
+
+- Finally, when you run the model the reuslts for each recommendation algorithms will be stored in a CSV file including the follwing columns:
+
+    ```
+    Dataset: Name of the dataset
+    Model: Name of base recommendation algorithm
+    GUser: User group
+    GItem: Item group
+    Type: Fairness type which is either N (i.e, fairness-unaware) or C (i.e., user fairness-aware)
+    User_EPS: User epsilon
+    Item_EPS: -
+    ndcg_ALL: NDCG for all users
+    ndcg_ACT: NDCG for advaneteged/active users
+    ndcg_INACT: NDCG for disadvaneteged/inactive users
+    Pre_ALL: Precision for all all users
+    Pre_ACT: Precision for advaneteged/active users
+    Pre_INACT: Precision for disadvaneteged/inactive users
+    Rec_ALL: Recall for all users
+    Rec_ACT: Recall for advaneteged/active users
+    Rec_INACT: Recall for disadvaneteged/inactive users
+    Nov_ALL: Novelty for all users
+    Nov_ACT: Novelty for advaneteged/active users
+    Nov_INACT: Novelty for disadvaneteged/inactive users
+    Cov_ALL: Coverage for all users
+    Cov_ACT: Coverage for advaneteged/active users
+    Cov_INACT: Coverage for disadvaneteged/inactive users
+    Active_GAP: GAP for all advaneteged/active users
+    Inactive_Gap: GAP for all disadvaneteged/inactive users
+    Short_Items: The numebr of short-head recommended items
+    Long_Items: The numebr of long-tail recommended items
+    All_Items: The numebr of all recommended items
+    ```
 
 ## Results
 Due to space limitations we add the results on the `Epinions` and `Last.fm` datasets into the paper. However, we add the final results of all datasets into the <a href="./tables">`tables`</a> folder accroding to each user grouping method (i.e., interactions and popular consumption). There, we have two folders, `5` and `20`, for user grouping based on interactions (5) and popular consumption (20).
