@@ -12,7 +12,11 @@ We add all of the datasets into the <a href="./datasets">`datasets`</a> folder w
 In order to make easy to use the reproducibility of URF mode, we create a notebook which can be run on Google Colab easily. Thus, you only need to config the dataset and then run the cells and get the final reuslts in CSV files. To do this, the follwing steps need to be taken:
 
 - First, you can open the notebook of URF model using <a href="https://colab.research.google.com/github/rahmanidashti/FairRecSys/blob/main/UFR.ipynb" target="_blank">Run model</a> or copy and pate the follwing link in your browser:
-> https://colab.research.google.com/github/rahmanidashti/FairRecSys/blob/main/UFR.ipynb
+
+```
+https://colab.research.google.com/github/rahmanidashti/FairRecSys/blob/main/UFR.ipynb
+```
+
 - Next, you can config the dataset using the follwoing cell in the notebook:
 
 ```
