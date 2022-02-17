@@ -27,7 +27,7 @@ In order to make easy to use the reproducibility of URF mode, we create a notebo
     ds_items = ['020']
     ```
 
-    where `ds_names` is the name of the dataset, `is_implicit` indicate the feedback type, `ds_users` refer to the user grouing methods (005 -> interactions and 2 -> popular consumption), and `ds_items` indicate the item grouping method which is `020`, indicating short-head and long-tail items grpouing accorsing to top 20% popular items.
+    where `ds_names` is the name of the dataset, `is_implicit` indicate the feedback type, `ds_users` refer to the user grouing methods (005 -> interactions and 2 -> popular consumption), and `ds_items` indicate the item grouping method which is `020`, indicating short-head and long-tail items grpouing accorsing to top 20% popular items. You can check all the datasets, their attributes, users and items grouping in <a href="./datasets">`dataset`</a> folder.
 
 ## Results
 Due to space limitations we add the results on the `Epinions` and `Last.fm` datasets into the paper. However, we add the final results of all datasets into the <a href="./tables">`tables`</a> folder accroding to each user grouping method (i.e., interactions and popular consumption). There, we have two folders, `5` and `20`, for user grouping based on interactions (5) and popular consumption (20).
