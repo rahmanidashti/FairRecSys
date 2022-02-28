@@ -72,7 +72,7 @@ Due to space limitations we add the results on the `Epinions` and `Last.fm` data
 ## Team
 <a href="http://rahmanidashti.github.io/">Hossein A. Rahmani</a>, Wen Intelligence Group, UCL
 
-<a href=#>Mohammadmehdi Naghiaei</a>, University of Southern California
+<a href="https://www.linkedin.com/in/ehsan-naghiaei/">Mohammadmehdi Naghiaei</a>, University of Southern California
 
 <a href="http://dehghanm.github.io/">Mahdi Dehghan</a>, SBU, Shahid Beheshti University
 
