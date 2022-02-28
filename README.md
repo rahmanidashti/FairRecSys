@@ -10,6 +10,7 @@ We add all of the datasets into the <a href="./datasets">`datasets`</a> folder w
 ## How to Run?
 
 ### Datasets: `grouping.ipnb`
+To generate user and item grouping one can use the `grouping` notebook.
 
 ### Model: `UFR.ipynb`
 In order to make easy to use the reproducibility of URF mode, we create a notebook which can be run on Google Colab easily. Thus, you only need to config the dataset and then run the cells and get the final reuslts in CSV files. To do this, the follwing steps need to be taken:
@@ -65,6 +66,7 @@ In order to make easy to use the reproducibility of URF mode, we create a notebo
     ```
 
 ### Analysis and Plots: `analysis.ipynb`
+You can run the `analysis` to generate the plots and the analysis.
 
 ## Tables (Results on Paper)
 Due to space limitations we add the results on the `Epinions` and `Last.fm` datasets into the paper. However, we add the final results of all datasets into the <a href="./tables">`tables`</a> folder accroding to each user grouping method (i.e., interactions and popular consumption). There, we have two folders, `005` and `2`, for user grouping based on interactions (005) and popular consumption (2).
