@@ -9,6 +9,9 @@ We add all of the datasets into the <a href="./datasets">`datasets`</a> folder w
 
 ## How to Run?
 
+### Datasets: `grouping.ipnb`
+
+### Model: `UFR.ipynb`
 In order to make easy to use the reproducibility of URF mode, we create a notebook which can be run on Google Colab easily. Thus, you only need to config the dataset and then run the cells and get the final reuslts in CSV files. To do this, the follwing steps need to be taken:
 
 - First, you can open the notebook of URF model using <a href="https://colab.research.google.com/github/rahmanidashti/FairRecSys/blob/main/UFR.ipynb" target="_blank">Run model</a> or copy and pate the follwing link in your browser:
@@ -61,6 +64,8 @@ In order to make easy to use the reproducibility of URF mode, we create a notebo
     All_Items: The numebr of all recommended items
     ```
 
+### Analysis and Plots: `analysis.ipynb`
+
 ## Results
 Due to space limitations we add the results on the `Epinions` and `Last.fm` datasets into the paper. However, we add the final results of all datasets into the <a href="./tables">`tables`</a> folder accroding to each user grouping method (i.e., interactions and popular consumption). There, we have two folders, `005` and `2`, for user grouping based on interactions (005) and popular consumption (2).
 
@@ -86,9 +91,10 @@ If you use our source code, dataset, and experiments for your research or develo
 ```
 
 ## Acknowledgements
+TBA
 
 ## Contact
-If you have any questions, do not hesitate to contact us by h.`rahmani@ucl.ac.uk` or `rahmanidashti@gmail.com`, we will be happy to assist.
+If you have any questions, do not hesitate to contact us by `h.rahmani@ucl.ac.uk` or `rahmanidashti@gmail.com`, we will be happy to assist.
 
 ## Todo
 - [X] Adding the datasets charactristics in the daataset readme
