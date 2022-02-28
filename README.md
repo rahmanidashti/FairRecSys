@@ -70,13 +70,13 @@ In order to make easy to use the reproducibility of URF mode, we create a notebo
 Due to space limitations we add the results on the `Epinions` and `Last.fm` datasets into the paper. However, we add the final results of all datasets into the <a href="./tables">`tables`</a> folder accroding to each user grouping method (i.e., interactions and popular consumption). There, we have two folders, `005` and `2`, for user grouping based on interactions (005) and popular consumption (2).
 
 ## Team
-<a href=#>Hossein A. Rahmani</a>, Wen Intelligence Group, UCL
+<a href="http://rahmanidashti.github.io/">Hossein A. Rahmani</a>, Wen Intelligence Group, UCL
 
 <a href=#>Mohammadmehdi Naghiaei</a>, University of Southern California
 
-<a href=#>Mahdi Dehghan</a>, SBU, Shahid Beheshti University
+<a href="http://dehghanm.github.io/">Mahdi Dehghan</a>, SBU, Shahid Beheshti University
 
-<a href=#>Mohammad Aliannejadi</a>, IRLab, University of Amsterdam
+<a href="http://aliannejadi.com/">Mohammad Aliannejadi</a>, IRLab, University of Amsterdam
 
 ## Citation
 If you use our source code, dataset, and experiments for your research or development, please cite the following paper:
