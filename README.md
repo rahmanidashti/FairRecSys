@@ -2,8 +2,6 @@
 
 <img src="./images/banner.jpeg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
 
-## Model
-
 ## Datasets
 We add all of the datasets into the <a href="./datasets">`datasets`</a> folder with the user and item groups. Each folder in `datasets` folder is relevant to one dataset and each of which contains a folder called `groups`. The `groups` folder includes to subfolders, `items` and `users`. The  `items` folder contains short-head and long-tail item groups while the  `users` folder includes user group files based on two user grouping methods (i.e., 5% and 20%).
 
