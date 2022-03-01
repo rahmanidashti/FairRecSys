@@ -9,10 +9,12 @@ We add all of the datasets into the <a href="./datasets">`datasets`</a> folder w
 
 ## How to Run?
 
-### Datasets: `grouping.ipnb`
-To generate user and item grouping one can use the `grouping` notebook.
+> We already provided the preprocessing datasets, user and item groups file. To run the model you can jump to `2. Model: UFR.ipynb` section.
 
-### Model: `UFR.ipynb`
+### 1. Datasets: `grouping.ipnb`
+To generate user and item grouping one can use the `grouping` notebook. The outputs of this notebook are added into the <a href="./datasets">`dataset`</a> folder.
+
+### 2. Model: `UFR.ipynb`
 In order to make easy to use the reproducibility of URF mode, we create a notebook which can be run on Google Colab easily. Thus, you only need to config the dataset and then run the cells and get the final reuslts in CSV files. To do this, the follwing steps need to be taken:
 
 - First, you can open the notebook of URF model using <a href="https://colab.research.google.com/github/rahmanidashti/FairRecSys/blob/main/UFR.ipynb" target="_blank">Run model</a> or copy and pate the follwing link in your browser:
@@ -64,8 +66,9 @@ In order to make easy to use the reproducibility of URF mode, we create a notebo
     Long_Items: The numebr of long-tail recommended items
     All_Items: The numebr of all recommended items
     ```
+Note we included the all raw result files in the <a href="./results">`results`</a> folder.
 
-### Analysis and Plots: `analysis.ipynb`
+### 3. Analysis and Plots: `analysis.ipynb`
 You can run the `analysis` to generate the plots and the analysis.
 
 ## Tables (Results on Paper)
