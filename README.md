@@ -103,8 +103,3 @@ TBA
 
 ## Contact
 If you have any questions, do not hesitate to contact us by `h.rahmani@ucl.ac.uk` or `rahmanidashti@gmail.com`, we will be happy to assist.
-
-## Todo
-- [X] Adding the datasets charactristics in the daataset readme
-- [X] Adding description on how to run the model
-- [X] Adding raw results files
