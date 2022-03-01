@@ -66,7 +66,7 @@ In order to make easy to use the reproducibility of URF mode, we create a notebo
     Long_Items: The numebr of long-tail recommended items
     All_Items: The numebr of all recommended items
     ```
-Note we included the all raw result files in the <a href="./results">`results`</a> folder.
+Note we included the all raw result files in the <a href="./results">`results`</a> folder. We use these files to generate the plots, figures, and tables in the paper. We also can consider them for further analysis.
 
 ### 3. Analysis and Plots: `analysis.ipynb`
 You can run the `analysis` to generate the plots and the analysis.
