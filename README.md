@@ -71,6 +71,8 @@ Note we included the all raw result files in the <a href="./results">`results`</
 ### 3. Analysis and Plots: `analysis.ipynb`
 You can run the `analysis` to generate the plots and the analysis.
 
+> The current version of `grouping.ipynb` and `analysis.ipynb` are the local version that means you can run them on your local machine. You need to download the `datasets`. We plan to provide a server like Google Colab plus a feature to write and store the generated user and item group files as well as plots into `FairRecSys` repository.
+
 ## Tables (Results on Paper)
 Due to space limitations we add the results on the `Epinions` and `Last.fm` datasets into the paper. However, we add the final results of all datasets into the <a href="./tables">`tables`</a> folder accroding to each user grouping method (i.e., interactions and popular consumption). There, we have two folders, `005` and `2`, for user grouping based on interactions (005) and popular consumption (2).
 
